@@ -17,3 +17,11 @@ Run the following command to install dependencies
 Run the following command in this directory:
 
     pipenv run pytest
+
+## Getting Started
+
+1. Write tests in `fizzbuzz_test.py`.
+
+1. Implement the function `fizzbuzz` in `fizzbuzz.py`.
+
+1. Run tests.
