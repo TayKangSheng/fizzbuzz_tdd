@@ -4,12 +4,16 @@
 
 Make sure you have the following installed
 
-1. Python 3
-1. Pip 3
-1. Pytest (`pip install -U pytest`)
+1. python3
+1. pip3
+1. pipenv
 
 ## How to run tests
 
+Run the following command to install dependencies
+
+    pip install
+
 Run the following command in this directory:
 
-    pytest
+    pipenv run pytest
