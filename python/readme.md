@@ -12,7 +12,7 @@ Make sure you have the following installed
 
 Run the following command to install dependencies
 
-    pip install
+    pipenv install
 
 Run the following command in this directory:
 
